@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dext2</string>
+
+    <string name="slide1_title">Dext2</string>
+    <string name="slide2_title">Dext2</string>
+    <string name="slide3_title">Dext2</string>
+
+    <string name="slide1_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean feugiat vestibulum vulputate. Ut in lacinia dui. Sed a semper libero. Morbi convallis suscipit eleifend. Sed dictum efficitur ligula, non pharetra massa. Aliquam facilisis vehicula lectus, id venenatis quam laoreet in. Duis luctus dolor in sagittis sodales. Etiam vel viverra tellus, ac molestie nisl. Ut vel commodo diam. Donec euismod sem.</string>
+    <string name="slide2_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean feugiat vestibulum vulputate. Ut in lacinia dui. Sed a semper libero. Morbi convallis suscipit eleifend. Sed dictum efficitur ligula, non pharetra massa. Aliquam facilisis vehicula lectus, id venenatis quam laoreet in. Duis luctus dolor in sagittis sodales. Etiam vel viverra tellus, ac molestie nisl. Ut vel commodo diam. Donec euismod sem.</string>
+    <string name="slide3_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean feugiat vestibulum vulputate. Ut in lacinia dui. Sed a semper libero. Morbi convallis suscipit eleifend. Sed dictum efficitur ligula, non pharetra massa. Aliquam facilisis vehicula lectus, id venenatis quam laoreet in. Duis luctus dolor in sagittis sodales. Etiam vel viverra tellus, ac molestie nisl. Ut vel commodo diam. Donec euismod sem.</string>
+
+    <string name="next_btn">Next</string>
+    <string name="back_btn">Back</string>
+    <string name="done_btn">Done</string>
+</resources>
